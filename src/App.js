@@ -8,7 +8,7 @@ function App() {
         <Nav />
         </header>
         <footer className="footer">
-          <p>Coded by Malaysia Thomas. Open-source on GitHub</p>
+          <p>Coded by <a href='https://github.com/MalaysiaThomas'>Malaysia Thomas</a>. Open-source on <a href='https://github.com/MalaysiaThomas/w4-weather-react'>GitHub</a>. </p>
         </footer>
     </div>
   );
